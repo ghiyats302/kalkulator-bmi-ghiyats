@@ -16,8 +16,6 @@ Aplikasi desktop berbasis **Java Swing (GUI)** untuk menghitung indeks massa tub
 - **IDE:** Apache NetBeans
 
 ## 📸 Tampilan Aplikasi
-*(Hapus baris ini dan tempel/drag gambar screenshot aplikasimu di sini jika mengedit lewat web GitHub, atau gunakan format di bawah jika menyimpan file screenshot.png di folder proyek)*
-
 ![Tampilan Kalkulator BMI](screenshot.png)<img width="1065" height="587" alt="Screenshot 2026-11-02 101442" src="https://github.com/user-attachments/assets/8e13c856-3727-4498-91b4-91ed28bd3a26" />
 
 
